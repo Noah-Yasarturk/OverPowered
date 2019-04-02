@@ -1,6 +1,6 @@
 # OverPowered
 Designed to provide large businesses with many buildings an option to remotely control their power usage via a web-based utility.
-Users were to be alerted of power overconsumption based on a decision tree trained by data from Georgia Power and have the option
+Users were to be alerted of power overconsumption based on a decision tree (trained by data from Georgia Power) and have the option
 to shut off devices from a built website.
 
 6 week Summer 2018 Software Engineering Project; 4 weeks of planning, 2 weeks of coding.
